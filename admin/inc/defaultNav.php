@@ -57,7 +57,6 @@
           </div>
         </form>
       </div>
-
       
       <ul class="order-1 order-md-3 navbar-nav navbar-no-expand ml-auto">
         <!-- Messages Dropdown Menu -->
