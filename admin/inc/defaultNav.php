@@ -93,7 +93,7 @@
             </a>
             <div class="dropdown-divider"></div>
             <a href="#" class="dropdown-item">
-              <!-- Message Start -->
+             
               <div class="media">
                 <img src="<?php echo base_url ?>dist/img/user8-128x128.jpg" alt="User Avatar" class="img-size-50 img-circle mr-3">
                 <div class="media-body">
