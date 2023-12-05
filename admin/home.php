@@ -38,8 +38,7 @@
           ?>
           <?php ?>
         </span>
-      </div>
-      
+      </div>      
     </div>    
   </div>
   <div class="col-12 col-sm-4 col-md-4">
