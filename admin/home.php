@@ -25,7 +25,7 @@
       </div>
       
     </div>
-    <!-- /.info-box -->
+   
   </div>
   <div class="col-12 col-sm-4 col-md-4">
     <div class="info-box">
