@@ -59,7 +59,7 @@
           <div class="col-8">
            <a href="<?= base_url ?>">Back to Site</a>
           </div>
-          <!-- /.col -->
+          
           <div class="col-4">
             <button type="submit" class="btn btn-primary btn-block btn-flat">Sign In</button>
           </div>
