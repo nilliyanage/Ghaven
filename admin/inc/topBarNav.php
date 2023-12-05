@@ -11,7 +11,7 @@
         border-radius: 50px;
   }
 </style>
-<!-- Navbar -->
+
       <nav class="main-header navbar navbar-expand navbar-light text-sm shadow">
         <!-- Left navbar links -->
         <ul class="navbar-nav">
