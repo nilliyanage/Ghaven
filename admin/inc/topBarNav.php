@@ -22,7 +22,7 @@
             <a href="<?php echo base_url ?>" class="nav-link"><?php echo (!isMobileDevice()) ? $_settings->info('name'):$_settings->info('short_name'); ?></a>
           </li>
         </ul>
-        <!-- Right navbar links -->
+        
         <ul class="navbar-nav ml-auto">
           <!-- Navbar Search -->
           <!-- <li class="nav-item">
