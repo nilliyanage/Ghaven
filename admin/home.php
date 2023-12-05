@@ -59,7 +59,7 @@
           <?php ?>
         </span>
       </div>
-      <!-- /.info-box-content -->
+      
     </div>
     <!-- /.info-box -->
   </div>
