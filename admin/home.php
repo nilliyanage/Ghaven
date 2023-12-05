@@ -114,7 +114,7 @@
       </div>
       
     </div>
-    <!-- /.info-box -->
+    
   </div>
 </div>
 
