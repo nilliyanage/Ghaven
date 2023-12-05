@@ -38,8 +38,7 @@
                   <li><a href="#" class="dropdown-item">level 2</a></li>
                   <li><a href="#" class="dropdown-item">level 2</a></li>
                 </ul>
-              </li>
-              
+              </li>              
             </ul>
           </li>
         </ul>
