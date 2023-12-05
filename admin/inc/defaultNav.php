@@ -9,8 +9,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="collapse navbar-collapse order-3" id="navbarCollapse">
-        
+      <div class="collapse navbar-collapse order-3" id="navbarCollapse">        
         <ul class="navbar-nav">
           <li class="nav-item">
             <a href="index3.html" class="nav-link">Home</a>
