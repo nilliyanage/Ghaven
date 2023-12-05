@@ -44,7 +44,6 @@
             </ul>
           </li>
         </ul>
-
         
         <form class="form-inline ml-0 ml-md-3">
           <div class="input-group input-group-sm">
