@@ -43,7 +43,6 @@
   <div class="col-12 col-sm-4 col-md-4">
     <div class="info-box">
       <span class="info-box-icon bg-gradient-secondary elevation-1"><i class="fas fa-boxes"></i></span>
-
       <div class="info-box-content">
         <span class="info-box-text">Total Products</span>
         <span class="iinfo-box-number text-right h4">
