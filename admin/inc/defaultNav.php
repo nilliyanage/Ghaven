@@ -35,7 +35,7 @@
                     <a tabindex="-1" href="#" class="dropdown-item">level 2</a>
                   </li>
 
-                  <!-- Level three dropdown-->
+                  
                   <li class="dropdown-submenu">
                     <a id="dropdownSubMenu3" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-item dropdown-toggle">level 2</a>
                     <ul aria-labelledby="dropdownSubMenu3" class="dropdown-menu border-0 shadow">
