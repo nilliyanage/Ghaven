@@ -79,7 +79,7 @@
       </div>
       
     </div>
-    <!-- /.info-box -->
+    
   </div><div class="col-12 col-sm-4 col-md-4">
     <div class="info-box">
       <span class="info-box-icon bg-gradient-maroon elevation-1"><i class="fas fa-user-friends"></i></span>
