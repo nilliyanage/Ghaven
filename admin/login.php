@@ -29,8 +29,6 @@
 <h1 class="text-center" id="system_name"><?= $_settings->info('name') ?></h1>
   <div class="clear-fix my-2"></div>
 <div class="login-box">
-
-  
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
       <a href="./" class="h1"><b>Admin Login</b></a>
