@@ -62,10 +62,7 @@
           </div>
          
         </div>
-      </form>
-      
-
-      
+      </form>      
         <a href="forgot-password.html">I forgot my password</a>
       </p> -->
       
