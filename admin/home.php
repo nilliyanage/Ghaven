@@ -59,7 +59,6 @@
   <div class="col-12 col-sm-4 col-md-4">
     <div class="info-box">
       <span class="info-box-icon bg-gradient-light border elevation-1"><i class="fas fa-users"></i></span>
-
       <div class="info-box-content">
         <span class="info-box-text">Vendors</span>
         <span class="iinfo-box-number text-right h4">
