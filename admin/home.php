@@ -12,7 +12,6 @@
   <div class="col-12 col-sm-4 col-md-4">
     <div class="info-box">
       <span class="info-box-icon bg-gradient-primary elevation-1"><i class="fas fa-th-list"></i></span>
-
       <div class="info-box-content">
         <span class="info-box-text">Total Categories</span>
         <span class="iinfo-box-number text-right h4">
