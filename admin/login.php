@@ -64,12 +64,9 @@
         </div>
       </form>      
         <a href="forgot-password.html">I forgot my password</a>
-      </p> -->
-      
-    </div>
- 
-  </div>
-  
+      </p> -->      
+    </div> 
+  </div>  
 </div>
 <script src="plugins/jquery/jquery.min.js"></script>
 
